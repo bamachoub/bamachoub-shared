@@ -1,3 +1,5 @@
+export const baseURL = 'https://api.bamachoub.com/';
+
 export const menuNames = {
   شرکت: 'company',
   'جنس ورق': 'sheetSelect',
