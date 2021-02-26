@@ -15,3 +15,9 @@ export const menuNames = {
   ' دانسیته': 'density',
   ' وزن': 'weight',
 };
+
+export const placeholders = {
+  productDesc: 'کالا بدون نام',
+  brandName: 'شرکت چوب',
+  brandDesc: '-',
+};
