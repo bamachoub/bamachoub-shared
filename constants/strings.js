@@ -1,19 +1,19 @@
 export const baseURL = 'https://api.bamachoub.com/';
 
 export const menuNames = {
-  شرکت: 'company',
-  'جنس ورق': 'sheetSelect',
-  ' رنگ': 'color',
-  ابعاد: 'dimensionsSelect',
-  ضخامت: 'thicknessSelect',
-  'نوع رویه': 'coverSelect',
-  ' کیفیت': 'quality',
-  ' یک یا دو رو': 'sideSheetType',
-  ' تعداد در پالت': 'numberInPalet',
-  // "کشورسازنده ورق": "sheetCountry",
-  ' کشورسازنده رویه': 'coverCountry',
-  ' دانسیته': 'density',
-  ' وزن': 'weight',
+  company: 'شرکت',
+  sheetSelect: 'جنس ورق',
+  color: 'رنگ',
+  dimensionsSelect: 'ابعاد',
+  thicknessSelect: 'ضخامت',
+  coverSelect: 'نوع رویه',
+  quality: 'کیفیت',
+  sideSheetType: 'یک یا دو رو',
+  numberInPalet: 'تعداد در پالت',
+  sheetCountry: 'کشورسازنده ورق',
+  coverCountry: 'کشورسازنده رویه',
+  density: 'دانسیته',
+  weight: 'وزن',
 };
 
 export const placeholders = {
