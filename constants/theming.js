@@ -9,11 +9,12 @@ export const colors = {
   success: '#00982B',
   inactive: '#414648',
   primaryDark: '#9c430d',
+  text: '#000000',
 };
 
 export const theme = {
   curves: [18, 14, 8, 4],
-  spaceing: [4, 8, 12, 14, 18, 22, 28, 32, 38],
+  spaceing: [4, 8, 12, 14, 18, 22, 28, 32, 38, 44, 52, 64],
   fontSizes: {
     h1: 44,
     h2: 32,
