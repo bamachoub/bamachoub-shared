@@ -29,11 +29,14 @@ export const common = {
   // TOAST ERROR
   TOAST_ERR__LOGIN_FIRST: 'ابتدا وارد شوید',
   TOAST_ERR__TRY_AGAIN: 'دوباره تلاش کنید',
+  TOAST_ERR__SESSION_END: 'نشست شما به اتمام رسیده، مجددا وارد شوید',
   TOAST_ERR__PRICE_CANT_BE_EMPTY: 'این آیتم موجود نمی باشد',
-  TOAST_ERR__SOMETHING_WENT_WRONG: 'خطا در ارتباط، مجددا تلاش کنید',
+  TOAST_ERR__SOMETHING_WENT_WRONG: 'خطایی رخ داده است',
   TOAST_ERR__TRY_AGAIN_OR_RELOGIN:
     'مجددا تلاش کنید، درصورت ادامه داشتن مشکل دوباره وارد شوید',
-  TOAST_ERR__LOGIN_INVALID: 'اطلاعات ورود نامعتبر',
+  TOAST_ERR__INVALID_INPUTS: 'اطلاعات ورود نامعتبر',
+  TOAST_ERR__EMPTY_INPUTS: 'اطلاعات کامل وارد نشده',
+  TOAST_ERR__MORE_THAN_STOCK: 'بیش از موجودی انبار',
   // TOAST MESSAGE
   TOAST_MSG__WELCOME: 'خوش آمدید',
   // BAMACHOUB
